@@ -20,8 +20,6 @@ import org.springframework.context.annotation.Bean;
 import org.springframework.util.ResourceUtils;
 
 
-
-
 @SpringBootApplication
 public class GPSEnabledTrucksSimulatorApplication {
 
